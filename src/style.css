@@ -46,7 +46,7 @@ body{
 }
 
 .resume_wrapper .resume_left .resume_info{
-	color: #84838b;
+	color: rgb(195, 190, 190);
 }
 
 .resume_wrapper .resume_left .resume_bottom{
@@ -195,7 +195,12 @@ body{
 
 .link_resume {
 	text-decoration: none;
-	color: #84838b;
+	color: rgb(195, 190, 190);
+}
+
+.link_language {
+	text-decoration: none;
+	color: #26252d;
 }
 
 .info_contact {
